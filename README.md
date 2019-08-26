@@ -22,3 +22,9 @@ gradle bootRun
 Application uses Springfox to give you a web interface to test.
 After start application, access http://localhost:8080/swagger-ui.html in your browser
 
+# Learning More
+* https://spring.io/projects/spring-data
+* https://spring.io/projects/spring-data-jpa
+* https://spring.io/projects/spring-data-redis
+* https://spring.io/projects/spring-data-rest
+
