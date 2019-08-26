@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/br.com.selat.spring-data-redis-poc.iml" filepath="$PROJECT_DIR$/.idea/modules/br.com.selat.spring-data-redis-poc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-data-redis-poc.iml" filepath="$PROJECT_DIR$/.idea/spring-data-redis-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-poc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-poc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-redis-poc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-redis-poc.test.iml" />
     </modules>
   </component>
 </project>
